@@ -1,0 +1,4 @@
+﻿  MathLibrary.cpp
+E:\labs\labs\5lab\MathLibrary\MathLibrary\MathLibrary.cpp(24,22): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека E:\labs\labs\5lab\MathLibrary\Debug\MathLibrary.lib и объект E:\labs\labs\5lab\MathLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> E:\labs\labs\5lab\MathLibrary\Debug\MathLibrary.dll
